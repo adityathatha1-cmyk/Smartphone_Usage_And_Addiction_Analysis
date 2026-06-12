@@ -107,21 +107,25 @@ Recommendations
 
 # 📸 Key Visualizations
 
-## 📱 Usage Drivers vs Addiction Level
+## 📊 Addiction Level Distribution
 
-(Add your screenshot here)
+![Addiction Distribution](images/addiction_level_distribution.png)
 
-```markdown
-![Usage Drivers](images/usage_drivers.png)
-```
+## 📱 Usage Drivers Analysis
+
+![Usage Drivers](images/usage_drivers_analysis.png)
+
+## 😴 Sleep & Stress Analysis
+
+![Sleep and Stress](images/sleep_stress_analysis.png)
+
+## 📚 Academic Performance Impact
+
+![Academic Impact](images/academic_impact_analysis.png)
 
 ## 🔥 Correlation Heatmap
 
-```markdown
-![Heatmap](images/heatmap.png)
-```
-
----
+![Heatmap](images/correlation_heatmap.png)
 
 # 🔍 Key Findings
 
